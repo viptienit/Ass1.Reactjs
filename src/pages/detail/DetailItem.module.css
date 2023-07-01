@@ -1,0 +1,78 @@
+.icon {
+  height: 16px;
+  margin-right: 5px;
+}
+.text {
+  font-size: 16px;
+  color: rgba(0, 0, 0, 0.815);
+  margin: 18px 0;
+  padding-right: 38px;
+}
+.header {
+  color: rgb(21, 122, 255);
+  margin-bottom: 18px;
+}
+.price {
+  color: rgb(65, 158, 12);
+  font-weight: 500;
+  margin-bottom: 20px;
+}
+.img {
+  height: 250px;
+  width: 350px;
+}
+.imgs {
+  display: grid;
+  grid-template-columns: 33% 33% 33%;
+  margin: 0 50px;
+  margin-bottom: 40px;
+  row-gap: 20px;
+}
+.boxTitle {
+  display: flex;
+}
+.boxDetail {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 50px 0;
+}
+.perfect {
+  width: 22%;
+  padding: 20px 18px;
+  background-color: rgb(222, 240, 255);
+}
+.titlePerfect {
+  padding: 10px 10px;
+  color: #000000a2;
+}
+.textPerfect {
+  padding: 10px 10px;
+}
+.btnPerfect {
+  color: rgb(232, 233, 252);
+  background-color: rgb(22, 90, 216);
+  padding: 12px 65px;
+  font-size: 14px;
+  border: none;
+  font-weight: 600;
+  border-radius: 8px;
+  margin-top: 20px;
+  margin-left: 10px;
+}
+.container {
+  width: 1300px;
+  position: relative;
+}
+.btnApa {
+  color: rgb(232, 233, 252);
+  background-color: rgb(22, 90, 216);
+  padding: 12px 65px;
+  font-size: 14px;
+  border: none;
+  font-weight: 600;
+  border-radius: 8px;
+  position: absolute;
+  right: 106px;
+  top: 15px;
+}

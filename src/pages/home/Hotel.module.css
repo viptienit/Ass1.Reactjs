@@ -1,0 +1,37 @@
+.header {
+  font-size: 22px;
+  color: rgba(0, 0, 0, 0.815);
+  margin-left: 30px;
+}
+.hotel {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.img {
+  height: 275px;
+  width: 240px;
+}
+.link {
+  font-size: 20px;
+  font-weight: 700;
+  color: rgba(90, 26, 150, 0.877);
+}
+.text {
+  margin: 10px 0;
+  font-size: 18px;
+  color: rgba(0, 0, 0, 0.733);
+}
+.items {
+  display: flex;
+  justify-content: space-between;
+  margin: 30px 50px;
+}
+.rate {
+  padding: 5px 5px;
+  background-color: rgb(40, 40, 182);
+  color: white;
+  font-weight: 600;
+  font-size: 14px;
+  margin-right: 10px;
+}

@@ -1,0 +1,14 @@
+.footer {
+  display: flex;
+  justify-content: space-between;
+  margin: 60px 60px;
+}
+.text {
+  color: rgb(0, 0, 148);
+  margin-top: 15px;
+}
+.boxFooter {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
